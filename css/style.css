@@ -8,11 +8,11 @@ box-sizing: border-box;
   width: 12px;
 }
 ::-webkit-scrollbar-thumb{
-  background: linear-gradient(transparent,green);
+  background: linear-gradient(transparent,purple);
   border-radius: 6px;
 }
 ::-webkit-scrollbar-thumb:hover{
-  background: linear-gradient(transparent,purple);
+  background: linear-gradient(transparent,green);
   border-radius: 6px;
 }
 
