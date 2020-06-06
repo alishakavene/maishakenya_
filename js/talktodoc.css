@@ -1,0 +1,47 @@
+body{
+  background-color: #B7D4D8;  
+}
+.jumbotron{
+    background: white;
+}
+.col-md-7{
+    float: left;
+    flex: 0 0 58%;
+    max-width: 58%;
+}
+.col-md-5{
+    float: right;
+    flex: 0 0 42%;
+    max-width: 42%;
+}
+.consult{
+    padding-top: 10px;
+    max-width: 500px;
+    max-height: 130vh;
+}
+.row-info{
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
+.row-info h5{
+    font-size: 15px;
+    font-weight: bold;
+}
+.row-info p{
+    font-size: 12px;
+    padding: 10px;
+}    
+.action{
+    float:left;
+    width: 33.33%;
+}
+.icon {
+    width: 80px;
+    height:80px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.collapsible{
+    display: none;
+  }
